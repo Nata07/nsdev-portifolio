@@ -37,10 +37,11 @@ export default function Header() {
             />
             <LinkWrapper to="/home">HOME</LinkWrapper>
             <LinkWrapper to="/about">SOBRE</LinkWrapper>
-            <LinkWrapper to="/skills">SKILLS</LinkWrapper>
+            {/* <LinkWrapper to="/skills">SKILLS</LinkWrapper> */}
           </nav>
         )}
       </Content>
     </Container>
+    // eslint-disable-next-line prettier/prettier
   );
 }

@@ -22,7 +22,7 @@ export default function About() {
             acompanhar as constantes mudanças do mercado de tecnologia.
           </p>
           <div className="social-media">
-            <a href="https://www.linkedin.com/in/natanael-arno-da-silva-069a61b1/">
+            <a href="https://www.linkedin.com/in/silvanatanael/">
               <FaLinkedin size={30} color="rgb(0, 232, 104)" />
               <span>LinkedIn</span>
             </a>
