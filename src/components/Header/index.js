@@ -42,6 +42,5 @@ export default function Header() {
         )}
       </Content>
     </Container>
-    // eslint-disable-next-line prettier/prettier
   );
 }
