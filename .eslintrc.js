@@ -16,7 +16,7 @@ module.exports = {
   },
   parser: 'babel-eslint',
   parserOptions: {
-    ecmaFeatures: { 
+    ecmaFeatures: {
       jsx: true,
     },
     ecmaVersion: 2018,
@@ -43,7 +43,8 @@ module.exports = {
     'global-require': 'off',
     'react-native/no-raw-text': 'off',
     'no-param-reassign': 'off',
-		'no-underscore-dangle': 'off',
+    'no-underscore-dangle': 'off',
+    'no-unused-vars': false,
     camelcase: 'off',
     'no-console': ['error', { allow: ['tron'] }],
 
